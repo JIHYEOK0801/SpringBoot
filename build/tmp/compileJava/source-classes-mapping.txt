@@ -1,29 +1,51 @@
-com/example/SpringBoot/web/dto/PostsResponseDto.java
- com.example.SpringBoot.web.dto.PostsResponseDto
+com/example/SpringBoot/web/dto/PostsListResponseDto.java
+ com.example.SpringBoot.web.dto.PostsListResponseDto
 com/example/SpringBoot/web/dto/PostsUpdateRequestDto.java
  com.example.SpringBoot.web.dto.PostsUpdateRequestDto
  com.example.SpringBoot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
-com/example/SpringBoot/web/HelloController.java
- com.example.SpringBoot.web.HelloController
-com/example/SpringBoot/web/dto/HelloResponseDto.java
- com.example.SpringBoot.web.dto.HelloResponseDto
+com/example/SpringBoot/config/auth/SecurityConfig.java
+ com.example.SpringBoot.config.auth.SecurityConfig
+com/example/SpringBoot/domain/user/User.java
+ com.example.SpringBoot.domain.user.User
+ com.example.SpringBoot.domain.user.User$UserBuilder
+com/example/SpringBoot/domain/user/Role.java
+ com.example.SpringBoot.domain.user.Role
+com/example/SpringBoot/domain/posts/PostsRepository.java
+ com.example.SpringBoot.domain.posts.PostsRepository
+com/example/SpringBoot/config/auth/dto/OAuthAttributes.java
+ com.example.SpringBoot.config.auth.dto.OAuthAttributes
+ com.example.SpringBoot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/example/SpringBoot/config/auth/dto/SessionUser.java
+ com.example.SpringBoot.config.auth.dto.SessionUser
+com/example/SpringBoot/domain/user/UserRepository.java
+ com.example.SpringBoot.domain.user.UserRepository
 com/example/SpringBoot/domain/BaseTimeEntity.java
  com.example.SpringBoot.domain.BaseTimeEntity
+com/example/SpringBoot/web/dto/PostsResponseDto.java
+ com.example.SpringBoot.web.dto.PostsResponseDto
 com/example/SpringBoot/Application.java
  com.example.SpringBoot.Application
-com/example/SpringBoot/domain/posts/Posts.java
- com.example.SpringBoot.domain.posts.Posts
- com.example.SpringBoot.domain.posts.Posts$PostsBuilder
+com/example/SpringBoot/service/posts/PostsService.java
+ com.example.SpringBoot.service.posts.PostsService
 com/example/SpringBoot/web/dto/PostsSaveRequestDto.java
  com.example.SpringBoot.web.dto.PostsSaveRequestDto
  com.example.SpringBoot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
-com/example/SpringBoot/domain/posts/PostsRepository.java
- com.example.SpringBoot.domain.posts.PostsRepository
-com/example/SpringBoot/web/dto/PostsListResponseDto.java
- com.example.SpringBoot.web.dto.PostsListResponseDto
-com/example/SpringBoot/web/IndexController.java
- com.example.SpringBoot.web.IndexController
-com/example/SpringBoot/service/posts/PostsService.java
- com.example.SpringBoot.service.posts.PostsService
+com/example/SpringBoot/web/dto/HelloResponseDto.java
+ com.example.SpringBoot.web.dto.HelloResponseDto
+com/example/SpringBoot/web/HelloController.java
+ com.example.SpringBoot.web.HelloController
 com/example/SpringBoot/web/PostsApiController.java
  com.example.SpringBoot.web.PostsApiController
+com/example/SpringBoot/config/auth/CustomOAuth2UserService.java
+ com.example.SpringBoot.config.auth.CustomOAuth2UserService
+com/example/SpringBoot/domain/posts/Posts.java
+ com.example.SpringBoot.domain.posts.Posts
+ com.example.SpringBoot.domain.posts.Posts$PostsBuilder
+com/example/SpringBoot/config/WebConfig.java
+ com.example.SpringBoot.config.WebConfig
+com/example/SpringBoot/web/IndexController.java
+ com.example.SpringBoot.web.IndexController
+com/example/SpringBoot/config/auth/LoginUserArgumentResolver.java
+ com.example.SpringBoot.config.auth.LoginUserArgumentResolver
+com/example/SpringBoot/config/auth/LoginUser.java
+ com.example.SpringBoot.config.auth.LoginUser
