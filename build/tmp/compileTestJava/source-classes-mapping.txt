@@ -1,0 +1,10 @@
+com/example/SpringBoot/web/dto/HelloResponseDtoTest.java
+ com.example.SpringBoot.web.dto.HelloResponseDtoTest
+com/example/SpringBoot/web/HelloControllerTest.java
+ com.example.SpringBoot.web.HelloControllerTest
+com/example/SpringBoot/domain/posts/PostsRepositoryTest.java
+ com.example.SpringBoot.domain.posts.PostsRepositoryTest
+com/example/SpringBoot/web/PostsApiControllerTest.java
+ com.example.SpringBoot.web.PostsApiControllerTest
+com/example/SpringBoot/web/IndexControllerTest.java
+ com.example.SpringBoot.web.IndexControllerTest
