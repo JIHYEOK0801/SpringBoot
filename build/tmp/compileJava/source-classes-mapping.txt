@@ -23,8 +23,8 @@ com/example/SpringBoot/domain/BaseTimeEntity.java
  com.example.SpringBoot.domain.BaseTimeEntity
 com/example/SpringBoot/web/dto/PostsResponseDto.java
  com.example.SpringBoot.web.dto.PostsResponseDto
-com/example/SpringBoot/Application.java
- com.example.SpringBoot.Application
+com/example/SpringBoot/web/PostsApiController.java
+ com.example.SpringBoot.web.PostsApiController
 com/example/SpringBoot/service/posts/PostsService.java
  com.example.SpringBoot.service.posts.PostsService
 com/example/SpringBoot/web/dto/PostsSaveRequestDto.java
@@ -34,8 +34,8 @@ com/example/SpringBoot/web/dto/HelloResponseDto.java
  com.example.SpringBoot.web.dto.HelloResponseDto
 com/example/SpringBoot/web/HelloController.java
  com.example.SpringBoot.web.HelloController
-com/example/SpringBoot/web/PostsApiController.java
- com.example.SpringBoot.web.PostsApiController
+com/example/SpringBoot/config/auth/LoginUser.java
+ com.example.SpringBoot.config.auth.LoginUser
 com/example/SpringBoot/config/auth/CustomOAuth2UserService.java
  com.example.SpringBoot.config.auth.CustomOAuth2UserService
 com/example/SpringBoot/domain/posts/Posts.java
@@ -47,5 +47,7 @@ com/example/SpringBoot/web/IndexController.java
  com.example.SpringBoot.web.IndexController
 com/example/SpringBoot/config/auth/LoginUserArgumentResolver.java
  com.example.SpringBoot.config.auth.LoginUserArgumentResolver
-com/example/SpringBoot/config/auth/LoginUser.java
- com.example.SpringBoot.config.auth.LoginUser
+com/example/SpringBoot/config/JpaConfig.java
+ com.example.SpringBoot.config.JpaConfig
+com/example/SpringBoot/Application.java
+ com.example.SpringBoot.Application
